@@ -4,7 +4,7 @@
     "url": "https://www.joeycadieux.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.joeycadieux.dev.ico",
     "slug": "joey-cadieux",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1705,
     "timeMonth": 1705,
     "timeYear": 1705,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-03": 0
+    }
   },
   {
     "name": "quebec-numerique",
