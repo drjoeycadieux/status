@@ -4,19 +4,19 @@
     "url": "https://www.joeycadieux.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.joeycadieux.dev.ico",
     "slug": "joey-cadieux",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1705,
-    "timeDay": 2420,
-    "timeWeek": 1705,
-    "timeMonth": 1705,
-    "timeYear": 1705,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 4059,
+    "timeDay": 6890,
+    "timeWeek": 4059,
+    "timeMonth": 4059,
+    "timeYear": 4059,
     "dailyMinutesDown": {
-      "2025-06-03": 0
+      "2025-06-03": 15
     }
   },
   {
