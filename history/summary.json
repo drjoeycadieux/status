@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.joeycadieux.dev.ico",
     "slug": "joey-cadieux",
     "status": "up",
-    "uptime": "92.73%",
+    "uptime": "92.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "91.31%",
-    "uptimeMonth": "92.73%",
-    "uptimeYear": "92.73%",
+    "uptimeMonth": "92.84%",
+    "uptimeYear": "92.84%",
     "time": 6917,
     "timeDay": 2313,
     "timeWeek": 7483,
@@ -63,17 +63,19 @@
     "url": "https://transit-mtl.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/transit-mtl.netlify.app.ico",
     "slug": "transit-montreal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 200,
-    "timeWeek": 261,
-    "timeMonth": 247,
-    "timeYear": 247,
-    "dailyMinutesDown": {}
+    "time": 237,
+    "timeDay": 156,
+    "timeWeek": 242,
+    "timeMonth": 237,
+    "timeYear": 237,
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   }
 ]
